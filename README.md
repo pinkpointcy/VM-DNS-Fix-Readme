@@ -1,4 +1,4 @@
-please think about if you changed your fucking net and contribute to a fucking Muti-DNS-Cashe errorssssssssssssss!
+please think about if you changed your fucking net and contributed to a fucking Muti-DNS-Cashe errorssssssssssssss!
 
 多层网络DNS缓存冲突排查指南
 ---
