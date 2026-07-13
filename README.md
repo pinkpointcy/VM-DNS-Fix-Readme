@@ -1,3 +1,5 @@
+please think about if you change your fucking net!
+
 多层网络DNS缓存冲突排查指南
 ---
 多层网络环境 DNS 解析缓存冲突排查与根治指南
